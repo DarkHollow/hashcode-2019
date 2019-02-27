@@ -23,12 +23,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ILoveYouDrZaius/hashcode-2019.git"
+    "url": "git+https://github.com/DarkHollow/hashcode-2019.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ILoveYouDrZaius/hashcode-2019/issues"
+    "url": "https://github.com/DarkHollow/hashcode-2019/issues"
   },
-  "homepage": "https://github.com/ILoveYouDrZaius/hashcode-2019#readme"
+  "homepage": "https://github.com/DarkHollow/hashcode-2019#readme"
 }
